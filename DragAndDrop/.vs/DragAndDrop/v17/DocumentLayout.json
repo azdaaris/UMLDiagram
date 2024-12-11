@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\jmeno\\desktop\\24 - draganddropresize\\draganddrop\\draganddrop\\canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\canvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\jmeno\\desktop\\24 - draganddropresize\\draganddrop\\draganddrop\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\jmeno\\desktop\\24 - draganddropresize\\draganddrop\\draganddrop\\umldiagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\umldiagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\jmeno\\desktop\\24 - draganddropresize\\draganddrop\\draganddrop\\diagram\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\diagram\\method.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\jmeno\\desktop\\24 - draganddropresize\\draganddrop\\draganddrop\\diagram\\attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\diagram\\attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\jmeno\\desktop\\24 - draganddropresize\\draganddrop\\draganddrop\\diagram\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\diagram\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\jmeno\\desktop\\24 - draganddropresize\\draganddrop\\draganddrop\\accessmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\accessmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\jmeno\\desktop\\24 - draganddropresize\\draganddrop\\draganddrop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\jmeno\\desktop\\24 - draganddropresize\\draganddrop\\draganddrop\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\jmeno\\desktop\\24 - draganddropresize\\draganddrop\\draganddrop\\resizeselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\resizeselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|c:\\users\\jmeno\\desktop\\24 - draganddropresize\\draganddrop\\draganddrop\\moveselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\moveselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\draganddrop\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42AC16A2-EA7D-4044-970B-A58C495B96F6}|DragAndDrop\\DragAndDrop.csproj|solutionrelative:draganddrop\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Program.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\Program.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Program.cs",
+              "RelativeToolTip": "DragAndDrop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:05:06.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccessModifier.cs",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\AccessModifier.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\AccessModifier.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\AccessModifier.cs",
+              "RelativeToolTip": "DragAndDrop\\AccessModifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:43:58.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Canvas.cs",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Canvas.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\Canvas.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Canvas.cs",
+              "RelativeToolTip": "DragAndDrop\\Canvas.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T17:18:40.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\FormMain.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\FormMain.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\FormMain.cs",
+              "RelativeToolTip": "DragAndDrop\\FormMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:29:58.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Attribute.cs",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Diagram\\Attribute.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\Diagram\\Attribute.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Diagram\\Attribute.cs",
+              "RelativeToolTip": "DragAndDrop\\Diagram\\Attribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:39:08.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Method.cs",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Diagram\\Method.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\Diagram\\Method.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Diagram\\Method.cs",
+              "RelativeToolTip": "DragAndDrop\\Diagram\\Method.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:57:25.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UmlDiagram.cs",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\UmlDiagram.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\UmlDiagram.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\UmlDiagram.cs",
+              "RelativeToolTip": "DragAndDrop\\UmlDiagram.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA0wCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:15:11.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Variable.cs",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Diagram\\Variable.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\Diagram\\Variable.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Diagram\\Variable.cs",
+              "RelativeToolTip": "DragAndDrop\\Diagram\\Variable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T08:59:17.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Selection.cs",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Selection.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\Selection.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\Selection.cs",
+              "RelativeToolTip": "DragAndDrop\\Selection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:20:01.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormMain.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\FormMain.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\FormMain.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\FormMain.cs [N\u00E1vrh]",
+              "RelativeToolTip": "DragAndDrop\\FormMain.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:43:48.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MoveSelection.cs",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\MoveSelection.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\MoveSelection.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\MoveSelection.cs",
+              "RelativeToolTip": "DragAndDrop\\MoveSelection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:26:07.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResizeSelection.cs",
+              "DocumentMoniker": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\ResizeSelection.cs",
+              "RelativeDocumentMoniker": "DragAndDrop\\ResizeSelection.cs",
+              "ToolTip": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\ResizeSelection.cs",
+              "RelativeToolTip": "DragAndDrop\\ResizeSelection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:09:39.701Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

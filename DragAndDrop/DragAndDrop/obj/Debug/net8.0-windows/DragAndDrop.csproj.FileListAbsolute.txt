@@ -1,0 +1,112 @@
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.exe
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.deps.json
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.runtimeconfig.json
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.FormMain.resources
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfo.cs
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\refint\DragAndDrop.dll
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
+C:\Users\Zikan\Desktop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.exe
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.deps.json
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.runtimeconfig.json
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.FormMain.resources
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfo.cs
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\refint\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
+C:\Users\Zikan\Desktop\Projekty 3\04 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.exe
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.deps.json
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.runtimeconfig.json
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.FormMain.resources
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfo.cs
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\refint\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
+C:\Users\Zikan\Desktop\Projekty 3\23 - DragAndDrop\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.FormMain.resources
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfo.cs
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\refint\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.exe
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.deps.json
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.runtimeconfig.json
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
+C:\Users\Zikan\Desktop\Projekty 3\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.exe
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.deps.json
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.runtimeconfig.json
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.dll
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.pdb
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.FormMain.resources
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.GenerateResource.cache
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfo.cs
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.dll
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\refint\DragAndDrop.dll
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
+X:\App\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.exe
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.deps.json
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.runtimeconfig.json
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.FormMain.resources
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfo.cs
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\refint\DragAndDrop.dll
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
+C:\Users\zikan\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.exe
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.deps.json
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.runtimeconfig.json
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.FormMain.resources
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfo.cs
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\refint\DragAndDrop.dll
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
+C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
