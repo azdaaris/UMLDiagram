@@ -1,10 +1,10 @@
 ﻿using DragAndDrop.Diagram;
 
-namespace DragAndDrop
+namespace DragAndDrop.Selections
 {
     public abstract class Selection
     {
-        protected UmlDiagram _selectedBox;
+        public UmlDiagram _selectedBox;
         protected int _relativeX;
         protected int _relativeY;
 

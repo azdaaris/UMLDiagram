@@ -1,10 +1,10 @@
 ﻿using DragAndDrop.Diagram;
 
-namespace DragAndDrop
+namespace DragAndDrop.Selections
 {
     public class ResizeSelection : Selection
     {
-        public ResizeSelection(UmlDiagram box, int x, int y) 
+        public ResizeSelection(UmlDiagram box, int x, int y)
             : base(box, x, y)
         { }
 

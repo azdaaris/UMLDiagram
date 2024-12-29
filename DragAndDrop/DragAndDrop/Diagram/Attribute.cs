@@ -4,14 +4,15 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DragAndDrop.Enums;
 
 namespace DragAndDrop.Diagram.UmlDiagram
 {
     public abstract class Attribute
     {
-        protected AccessModifier Modifier { get; set; }
+        public AccessModifier Modifier { get; set; }
         public string Identificator { get; set; }
-        protected string DataType { get; set; }
+        public string DataType { get; set; }
         protected Font Font { get; set; }
         public Attribute()
         {

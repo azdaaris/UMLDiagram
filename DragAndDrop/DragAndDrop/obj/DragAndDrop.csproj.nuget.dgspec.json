@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\DragAndDrop.csproj": {}
+    "C:\\Users\\jmeno\\Desktop\\Prijekt\\DragAndDrop\\DragAndDrop\\DragAndDrop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\DragAndDrop.csproj": {
+    "C:\\Users\\jmeno\\Desktop\\Prijekt\\DragAndDrop\\DragAndDrop\\DragAndDrop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\DragAndDrop.csproj",
+        "projectUniqueName": "C:\\Users\\jmeno\\Desktop\\Prijekt\\DragAndDrop\\DragAndDrop\\DragAndDrop.csproj",
         "projectName": "DragAndDrop",
-        "projectPath": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\DragAndDrop.csproj",
+        "projectPath": "C:\\Users\\jmeno\\Desktop\\Prijekt\\DragAndDrop\\DragAndDrop\\DragAndDrop.csproj",
         "packagesPath": "C:\\Users\\jmeno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmeno\\Desktop\\24 - DragAndDropResize\\DragAndDrop\\DragAndDrop\\obj\\",
+        "outputPath": "C:\\Users\\jmeno\\Desktop\\Prijekt\\DragAndDrop\\DragAndDrop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

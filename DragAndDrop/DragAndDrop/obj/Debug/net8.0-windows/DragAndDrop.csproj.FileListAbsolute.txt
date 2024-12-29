@@ -110,3 +110,84 @@ C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\
 C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
 C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
 C:\Users\jmeno\Desktop\24 - DragAndDropResize\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.exe
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.deps.json
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.runtimeconfig.json
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.FormMain.resources
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfo.cs
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.sourcelink.json
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\refint\DragAndDrop.dll
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
+C:\Users\folaufadam\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.exe
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.deps.json
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.runtimeconfig.json
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.dll
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.pdb
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.FormMain.resources
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.GenerateResource.cache
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfo.cs
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.sourcelink.json
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.dll
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\refint\DragAndDrop.dll
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
+X:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.exe
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.deps.json
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.runtimeconfig.json
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.dll
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.pdb
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.FormMain.resources
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.GenerateResource.cache
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfo.cs
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.sourcelink.json
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.dll
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\refint\DragAndDrop.dll
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.EditDiagram.resources
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.SaveDialogForm.resources
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.SaveFileNameInputForm.resources
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.LoadFromFileForm.resources
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.Properties.Resources.resources
+N:\4. ročník\PRG\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.RelationForm.resources
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.exe
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.deps.json
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.runtimeconfig.json
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\bin\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.EditDiagram.resources
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.FormMain.resources
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.LoadFromFileForm.resources
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.RelationForm.resources
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.SaveDialogForm.resources
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.SaveFileNameInputForm.resources
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.Properties.Resources.resources
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.AssemblyInfo.cs
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.sourcelink.json
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.dll
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\refint\DragAndDrop.dll
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.pdb
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.genruntimeconfig.cache
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\ref\DragAndDrop.dll
+C:\Users\jmeno\Desktop\Prijekt\DragAndDrop\DragAndDrop\obj\Debug\net8.0-windows\DragAndDrop.Forms.EditClassName.resources
